@@ -19,13 +19,9 @@
                "name":"All",
                "name_en":"All",
                "name_th":"ทั้งหมด",
-               "subCat":[
-                  
-               ],
-               "campaigns":[
-                  
-               ],
-               "tags":null
+               "subCat":[],
+               "campaigns":[],
+               "tags":""
             },
             {
                "count":2,
@@ -36,13 +32,9 @@
                "name":"Food & Beverage",
                "name_en":"Food & Beverage",
                "name_th":"อาหารและเครื่องดื่ม",
-               "subCat":[
-                  
-               ],
-               "campaigns":[
-                  
-               ],
-               "tags":null
+               "subCat":[],
+               "campaigns":[],
+               "tags":""
             },
             {
                "count":4,
@@ -53,13 +45,9 @@
                "name":"Fashion",
                "name_en":"Fashion",
                "name_th":"แฟชั่น",
-               "subCat":[
-                  
-               ],
-               "campaigns":[
-                  
-               ],
-               "tags":null
+               "subCat":[],
+               "campaigns":[],
+               "tags":""
             },
             {
                "count":5,
@@ -70,13 +58,9 @@
                "name":"Beauty & Wellness",
                "name_en":"Beauty & Wellness",
                "name_th":"ความงามและสุขภาพ",
-               "subCat":[
-                  
-               ],
-               "campaigns":[
-                  
-               ],
-               "tags":null
+               "subCat":[],
+               "campaigns":[],
+               "tags":""
             },
             {
                "count":6,
@@ -87,18 +71,12 @@
                "name":"Lifestyle",
                "name_en":"Lifestyle",
                "name_th":"ไลฟ์สไตล์",
-               "subCat":[
-                  
-               ],
-               "campaigns":[
-                  
-               ],
-               "tags":null
+               "subCat":[],
+               "campaigns":[],
+               "tags":""
             }
          ],
-         "campaigns":[
-            
-         ],
+         "campaigns":[],
          "tags":"parade"
       },
       {
@@ -120,13 +98,9 @@
                "name":"All",
                "name_en":"All",
                "name_th":"ทั้งหมด",
-               "subCat":[
-                  
-               ],
-               "campaigns":[
-                  
-               ],
-               "tags":null
+               "subCat":[],
+               "campaigns":[],
+               "tags":""
             },
             {
                "count":2,
@@ -137,13 +111,9 @@
                "name":"Food & Beverage",
                "name_en":"Food & Beverage",
                "name_th":"อาหารและเครื่องดื่ม",
-               "subCat":[
-                  
-               ],
-               "campaigns":[
-                  
-               ],
-               "tags":null
+               "subCat":[],
+               "campaigns":[],
+               "tags":""
             },
             {
                "count":4,
@@ -154,13 +124,9 @@
                "name":"Fashion",
                "name_en":"Fashion",
                "name_th":"แฟชั่น",
-               "subCat":[
-                  
-               ],
-               "campaigns":[
-                  
-               ],
-               "tags":null
+               "subCat":[],
+               "campaigns":[],
+               "tags":""
             },
             {
                "count":5,
@@ -171,13 +137,9 @@
                "name":"Beauty & Wellness",
                "name_en":"Beauty & Wellness",
                "name_th":"ความงามและสุขภาพ",
-               "subCat":[
-                  
-               ],
-               "campaigns":[
-                  
-               ],
-               "tags":null
+               "subCat":[],
+               "campaigns":[],
+               "tags":""
             },
             {
                "count":6,
@@ -188,18 +150,12 @@
                "name":"Lifestyle",
                "name_en":"Lifestyle",
                "name_th":"ไลฟ์สไตล์",
-               "subCat":[
-                  
-               ],
-               "campaigns":[
-                  
-               ],
-               "tags":null
+               "subCat":[],
+               "campaigns":[],
+               "tags":""
             }
          ],
-         "campaigns":[
-            
-         ],
+         "campaigns":[],
          "tags":"thestoreys"
       }
    ]
