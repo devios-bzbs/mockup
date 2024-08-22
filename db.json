@@ -1,0 +1,165 @@
+{
+"menu_cate_rewards_blk": {
+[
+    {
+        "count": 10,
+        "id": 1,
+        "image_url": "https://example.com/parade.png",
+        "list_config": "config_parade",
+        "mode": "active",
+        "name": "Parade",
+        "name_en": "Parade",
+        "name_th": "พาเหรด",
+        "subCat": [
+            {
+                "count": 3,
+                "id": 101,
+                "image_url": "https://example.com/all.png",
+                "list_config": "config_all",
+                "mode": "active",
+                "name": "All",
+                "name_en": "All",
+                "name_th": "ทั้งหมด",
+                "subCat": [],
+                "campaigns": [],
+                "tags": null
+            },
+            {
+                "count": 2,
+                "id": 102,
+                "image_url": "https://example.com/food_beverage.png",
+                "list_config": "config_food_beverage",
+                "mode": "active",
+                "name": "Food & Beverage",
+                "name_en": "Food & Beverage",
+                "name_th": "อาหารและเครื่องดื่ม",
+                "subCat": [],
+                "campaigns": [],
+                "tags": null
+            },
+            {
+                "count": 4,
+                "id": 103,
+                "image_url": "https://example.com/fashion.png",
+                "list_config": "config_fashion",
+                "mode": "active",
+                "name": "Fashion",
+                "name_en": "Fashion",
+                "name_th": "แฟชั่น",
+                "subCat": [],
+                "campaigns": [],
+                "tags": null
+            },
+            {
+                "count": 5,
+                "id": 104,
+                "image_url": "https://example.com/beauty_wellness.png",
+                "list_config": "config_beauty_wellness",
+                "mode": "active",
+                "name": "Beauty & Wellness",
+                "name_en": "Beauty & Wellness",
+                "name_th": "ความงามและสุขภาพ",
+                "subCat": [],
+                "campaigns": [],
+                "tags": null
+            },
+            {
+                "count": 6,
+                "id": 105,
+                "image_url": "https://example.com/lifestyle.png",
+                "list_config": "config_lifestyle",
+                "mode": "active",
+                "name": "Lifestyle",
+                "name_en": "Lifestyle",
+                "name_th": "ไลฟ์สไตล์",
+                "subCat": [],
+                "campaigns": [],
+                "tags": null
+            }
+        ],
+        "campaigns": [],
+        "tags": "parade"
+    },
+    {
+        "count": 12,
+        "id": 2,
+        "image_url": "https://example.com/thestoreys.png",
+        "list_config": "config_thestoreys",
+        "mode": "active",
+        "name": "The Storeys",
+        "name_en": "The Storeys",
+        "name_th": "เดอะ สตอรี่ส์",
+        "subCat": [
+            {
+                "count": 3,
+                "id": 201,
+                "image_url": "https://example.com/all.png",
+                "list_config": "config_all",
+                "mode": "active",
+                "name": "All",
+                "name_en": "All",
+                "name_th": "ทั้งหมด",
+                "subCat": [],
+                "campaigns": [],
+                "tags": null
+            },
+            {
+                "count": 2,
+                "id": 202,
+                "image_url": "https://example.com/food_beverage.png",
+                "list_config": "config_food_beverage",
+                "mode": "active",
+                "name": "Food & Beverage",
+                "name_en": "Food & Beverage",
+                "name_th": "อาหารและเครื่องดื่ม",
+                "subCat": [],
+                "campaigns": [],
+                "tags": null
+            },
+            {
+                "count": 4,
+                "id": 203,
+                "image_url": "https://example.com/fashion.png",
+                "list_config": "config_fashion",
+                "mode": "active",
+                "name": "Fashion",
+                "name_en": "Fashion",
+                "name_th": "แฟชั่น",
+                "subCat": [],
+                "campaigns": [],
+                "tags": null
+            },
+            {
+                "count": 5,
+                "id": 204,
+                "image_url": "https://example.com/beauty_wellness.png",
+                "list_config": "config_beauty_wellness",
+                "mode": "active",
+                "name": "Beauty & Wellness",
+                "name_en": "Beauty & Wellness",
+                "name_th": "ความงามและสุขภาพ",
+                "subCat": [],
+                "campaigns": [],
+                "tags": null
+            },
+            {
+                "count": 6,
+                "id": 205,
+                "image_url": "https://example.com/lifestyle.png",
+                "list_config": "config_lifestyle",
+                "mode": "active",
+                "name": "Lifestyle",
+                "name_en": "Lifestyle",
+                "name_th": "ไลฟ์สไตล์",
+                "subCat": [],
+                "campaigns": [],
+                "tags": null
+            }
+        ],
+        "campaigns": [],
+        "tags": "thestoreys"
+    }
+]
+
+}
+}
