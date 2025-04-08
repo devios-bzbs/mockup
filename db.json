@@ -1,110 +1,109 @@
 {
    "ios_meadjohnson6.4.6":{
-  allow_use: true,
-  has_new_version: false,
-  use_cdn: false,
-  mgm: false,
-  campaignid: 491187,
-  ShowPrimeMenu: false,
-  ShowPrimeSidebar: true,
-  ShowPrimeBuy: false,
-  OtherChannelsHistory: true,
-  ChannelShopee: true,
-  ChannelAgoda: true,
-  ChannelLazada: true,
-  ChannelJDCentral: true,
-  surpriseboxcampaignid: 610806,
-  advocacy: false,
-  advocacycampaignid: 519892,
-  PDPABanner: {
-    isShowPDPABanner: false,
-    bannerPath: "https://stgstoragebuzzebees.blob.core.windows.net/config/mj/PDPA/MJ_PDPA.png"
-  },
-  termandcondition: 12,
-  dataprivacy: 12,
-  primeregistercampaignid: 1306174,
-  bubble: true,
-  bubbleMgm: false,
-  bubblePoop: false,
-  bubbleAdvocacy: false,
-  welcomecode: true,
-  myorder: true,
-  advocacymenu: false,
-  mgmMenu: false,
-  device_login: true,
-  isskiplogin: true,
-  momcommunity: true,
-  stampcard: true,
-  alert_login_popup_times: 1,
-  welcome_page_times: 50,
-  IsShowSubscriptionCart: true,
-  isShowUserLevel: true,
-  isShowTrustProject: true,
-  TrustProjectPopup: {
-    isShowTrustProjectPopup: true,
-    popupMessage: "ประกาศยกเลิกการใช้สติกเกอร์ป้องกันสินค้าปลอมบนบรรจุภัณฑ์ และยกเลิกระบบสแกนตั้งแต่วันที่ 1 ก.ค. 2568 เป็นต้นไป",
-    popupButtoncampaignid: 1476603
-  },
-  terminationCommu: {
-    terminationCommucampaignid: 1481061,
-    redirectUrl: "https://shorturl.ai/4oXYL",
-    isShowTerminationPopup: true,
-    popupText: "เตรียมพบกับ Mead Johnson Rewards โฉมใหม่บนไลน์ เริ่มวันที่ 1 เมษายน 2568",
-    popupButton1: {
-      isShow: true,
-      buttonText: "รายละเอียดเพิ่มเติม"
-    },
-    popupButton2: {
-      isShow: false,
-      buttonText: "เข้าใช้งาน MJN Rewards"
-    },
-    popupButton3: {
-      isShow: false,
-      buttonText: "เริ่มใช้งานและรับ 500 โบนัสพอยท์!",
-      buttonUrl: "https://shorturl.ai/4oXYL"
-    }
-  },
-  MainPage: {
-    ​isTerminate: false,
-    ​RegisterButton: {
-      ​isShow: true,
-      ​PopupText: "ลูกค้าสามารถสมัครสมาชิกและเข้าใช้งานผ่านช่องทาง Line OA ได้แล้ววันนี้",
-      ​PopupButton: "เข้าใช้งาน",
-      ​RedirectUrl: "https://shorturl.ai/4oXYL"
-    },
-    ​LoginButton: {
-      ​isShow: true,
-      PopupText: "สมาชิกใหม่ที่สมัครผ่านไลน์ EnfaSmartClub จะไม่สามารถเข้าสู่ระบบในแอปฯได้ ประกาศย้าย MJN Rewards ไปที่ไลน์ EnfaSmartClub เริ่ม 1 เมษายน 2568",
-      PopupButton: "สมาชิกเดิมเข้าสู่ระบบที่นี่"
-    },
-    ​SkipLogin: {
-      ​isShow: true,
-      
-    }
-  },
-  SubscribtionCartURL: "https://shoppingcartservice15.buzzebees-uat.com/subscription",
-  subscription_home: {
-    isShowBanner: false,
-    bannerPath: "https://stgstoragebuzzebees.blob.core.windows.net/config/mj/subscription/banner_home"
-  },
-  subscription_enfa: {
-    isShowBanner: true,
-    bannerPath: "https://stgstoragebuzzebees.blob.core.windows.net/config/mj/subscription/banner_shopenfa"
-  },
-  subscription_rewards: {
-    isShowBanner: true,
-    bannerPath: "https://stgstoragebuzzebees.blob.core.windows.net/config/mj/subscription/banner_rewards"
-  },
-  subscription_intro: {
-    bannerPath: [
-      "https://stgstoragebuzzebees.blob.core.windows.net/config/mj/subscription/packagedetail",
-      "https://stgstoragebuzzebees.blob.core.windows.net/config/mj/subscription/howtouse"
-    ]
-  },
-  maintenance: false,
-  maintenanceTitle: "ขออภัยในความไม่สะดวก",
-  maintenanceMsm: "ระบบปิดเพื่อทำการซ่อมบำรุงระหว่างวันที่ DD/MM/YY"
-},
+      "allow_use":true,
+      "has_new_version":false,
+      "use_cdn":false,
+      "mgm":false,
+      "campaignid":491187,
+      "ShowPrimeMenu":false,
+      "ShowPrimeSidebar":true,
+      "ShowPrimeBuy":false,
+      "OtherChannelsHistory":true,
+      "ChannelShopee":true,
+      "ChannelAgoda":true,
+      "ChannelLazada":true,
+      "ChannelJDCentral":true,
+      "surpriseboxcampaignid":610806,
+      "advocacy":false,
+      "advocacycampaignid":519892,
+      "PDPABanner":{
+         "isShowPDPABanner":false,
+         "bannerPath":"https://stgstoragebuzzebees.blob.core.windows.net/config/mj/PDPA/MJ_PDPA.png"
+      },
+      "termandcondition":12,
+      "dataprivacy":12,
+      "primeregistercampaignid":1306174,
+      "bubble":true,
+      "bubbleMgm":false,
+      "bubblePoop":false,
+      "bubbleAdvocacy":false,
+      "welcomecode":true,
+      "myorder":true,
+      "advocacymenu":false,
+      "mgmMenu":false,
+      "device_login":true,
+      "isskiplogin":true,
+      "momcommunity":true,
+      "stampcard":true,
+      "alert_login_popup_times":1,
+      "welcome_page_times":50,
+      "IsShowSubscriptionCart":true,
+      "isShowUserLevel":true,
+      "isShowTrustProject":true,
+      "TrustProjectPopup":{
+         "isShowTrustProjectPopup":true,
+         "popupMessage":"ประกาศยกเลิกการใช้สติกเกอร์ป้องกันสินค้าปลอมบนบรรจุภัณฑ์ และยกเลิกระบบสแกนตั้งแต่วันที่ 1 ก.ค. 2568 เป็นต้นไป",
+         "popupButtoncampaignid":1476603
+      },
+      "terminationCommu":{
+         "terminationCommucampaignid":1481061,
+         "redirectUrl":"https://shorturl.ai/4oXYL",
+         "isShowTerminationPopup":true,
+         "popupText":"เตรียมพบกับ Mead Johnson Rewards โฉมใหม่บนไลน์ เริ่มวันที่ 1 เมษายน 2568",
+         "popupButton1":{
+            "isShow":true,
+            "buttonText":"รายละเอียดเพิ่มเติม"
+         },
+         "popupButton2":{
+            "isShow":false,
+            "buttonText":"เข้าใช้งาน MJN Rewards"
+         },
+         "popupButton3":{
+            "isShow":false,
+            "buttonText":"เริ่มใช้งานและรับ 500 โบนัสพอยท์!",
+            "buttonUrl":"https://shorturl.ai/4oXYL"
+         }
+      },
+      "MainPage":{
+         "​isTerminate":false,
+         "​RegisterButton":{
+            "​isShow":true,
+            "​PopupText":"ลูกค้าสามารถสมัครสมาชิกและเข้าใช้งานผ่านช่องทาง Line OA ได้แล้ววันนี้",
+            "​PopupButton":"เข้าใช้งาน",
+            "​RedirectUrl":"https://shorturl.ai/4oXYL"
+         },
+         "​LoginButton":{
+            "​isShow":true,
+            "PopupText":"สมาชิกใหม่ที่สมัครผ่านไลน์ EnfaSmartClub จะไม่สามารถเข้าสู่ระบบในแอปฯได้ ประกาศย้าย MJN Rewards ไปที่ไลน์ EnfaSmartClub เริ่ม 1 เมษายน 2568",
+            "PopupButton":"สมาชิกเดิมเข้าสู่ระบบที่นี่"
+         },
+         "​SkipLogin":{
+            "​isShow":true
+         }
+      },
+      "SubscribtionCartURL":"https://shoppingcartservice15.buzzebees-uat.com/subscription",
+      "subscription_home":{
+         "isShowBanner":false,
+         "bannerPath":"https://stgstoragebuzzebees.blob.core.windows.net/config/mj/subscription/banner_home"
+      },
+      "subscription_enfa":{
+         "isShowBanner":true,
+         "bannerPath":"https://stgstoragebuzzebees.blob.core.windows.net/config/mj/subscription/banner_shopenfa"
+      },
+      "subscription_rewards":{
+         "isShowBanner":true,
+         "bannerPath":"https://stgstoragebuzzebees.blob.core.windows.net/config/mj/subscription/banner_rewards"
+      },
+      "subscription_intro":{
+         "bannerPath":[
+            "https://stgstoragebuzzebees.blob.core.windows.net/config/mj/subscription/packagedetail",
+            "https://stgstoragebuzzebees.blob.core.windows.net/config/mj/subscription/howtouse"
+         ]
+      },
+      "maintenance":false,
+      "maintenanceTitle":"ขออภัยในความไม่สะดวก",
+      "maintenanceMsm":"ระบบปิดเพื่อทำการซ่อมบำรุงระหว่างวันที่ DD/MM/YY"
+   },
    "menu_cate_rewards_onebangkok":[
       {
          "count":10,
@@ -125,8 +124,12 @@
                "name":"All",
                "name_en":"All",
                "name_th":"ทั้งหมด",
-               "subCat":[],
-               "campaigns":[],
+               "subCat":[
+                  
+               ],
+               "campaigns":[
+                  
+               ],
                "tags":""
             },
             {
@@ -138,8 +141,12 @@
                "name":"Food & Beverage",
                "name_en":"Food & Beverage",
                "name_th":"อาหารและเครื่องดื่ม",
-               "subCat":[],
-               "campaigns":[],
+               "subCat":[
+                  
+               ],
+               "campaigns":[
+                  
+               ],
                "tags":""
             },
             {
@@ -151,8 +158,12 @@
                "name":"Fashion",
                "name_en":"Fashion",
                "name_th":"แฟชั่น",
-               "subCat":[],
-               "campaigns":[],
+               "subCat":[
+                  
+               ],
+               "campaigns":[
+                  
+               ],
                "tags":""
             },
             {
@@ -164,8 +175,12 @@
                "name":"Beauty & Wellness",
                "name_en":"Beauty & Wellness",
                "name_th":"ความงามและสุขภาพ",
-               "subCat":[],
-               "campaigns":[],
+               "subCat":[
+                  
+               ],
+               "campaigns":[
+                  
+               ],
                "tags":""
             },
             {
@@ -177,12 +192,18 @@
                "name":"Lifestyle",
                "name_en":"Lifestyle",
                "name_th":"ไลฟ์สไตล์",
-               "subCat":[],
-               "campaigns":[],
+               "subCat":[
+                  
+               ],
+               "campaigns":[
+                  
+               ],
                "tags":""
             }
          ],
-         "campaigns":[],
+         "campaigns":[
+            
+         ],
          "tags":"parade"
       },
       {
@@ -204,8 +225,12 @@
                "name":"All",
                "name_en":"All",
                "name_th":"ทั้งหมด",
-               "subCat":[],
-               "campaigns":[],
+               "subCat":[
+                  
+               ],
+               "campaigns":[
+                  
+               ],
                "tags":""
             },
             {
@@ -217,8 +242,12 @@
                "name":"Food & Beverage",
                "name_en":"Food & Beverage",
                "name_th":"อาหารและเครื่องดื่ม",
-               "subCat":[],
-               "campaigns":[],
+               "subCat":[
+                  
+               ],
+               "campaigns":[
+                  
+               ],
                "tags":""
             },
             {
@@ -230,8 +259,12 @@
                "name":"Fashion",
                "name_en":"Fashion",
                "name_th":"แฟชั่น",
-               "subCat":[],
-               "campaigns":[],
+               "subCat":[
+                  
+               ],
+               "campaigns":[
+                  
+               ],
                "tags":""
             },
             {
@@ -243,8 +276,12 @@
                "name":"Beauty & Wellness",
                "name_en":"Beauty & Wellness",
                "name_th":"ความงามและสุขภาพ",
-               "subCat":[],
-               "campaigns":[],
+               "subCat":[
+                  
+               ],
+               "campaigns":[
+                  
+               ],
                "tags":""
             },
             {
@@ -256,12 +293,18 @@
                "name":"Lifestyle",
                "name_en":"Lifestyle",
                "name_th":"ไลฟ์สไตล์",
-               "subCat":[],
-               "campaigns":[],
+               "subCat":[
+                  
+               ],
+               "campaigns":[
+                  
+               ],
                "tags":""
             }
          ],
-         "campaigns":[],
+         "campaigns":[
+            
+         ],
          "tags":"thestoreys"
       }
    ]
